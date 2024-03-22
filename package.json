@@ -1,6 +1,6 @@
 {
-  "name": "e_commerce_payment_gateway_integration",
-  "version": "0.1.0",
+  "name": "e_commerce_application_with_payment_gateway_integration",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
