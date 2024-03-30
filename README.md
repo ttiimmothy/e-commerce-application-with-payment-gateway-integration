@@ -1,4 +1,7 @@
 # E-commerce Application with Payment Gateway Integration
+[![ci](https://github.com/ttiimmothy/e-commerce-application-with-payment-gateway-integration/actions/workflows/ci.yml/badge.svg)](https://github.com/ttiimmothy/e-commerce-application-with-payment-gateway-integration/actions/workflows/ci.yml)
+
+An e-commerce application is built with multiple payment gateway integrations and customized plugins addons. It uses **Typescript**, **React** amd **Next.js**. It uses **Tailwind CSS** and **RadixUI** for CSS usage. It uses **redux** to do the state management. For fetching and payment, **axios** and **strapi** are implemented. **MongoDB** is used for data storage.
 
 ## 🎯 Features
 
@@ -28,8 +31,6 @@ To add a new payment method, follow these steps:
 For detailed examples and best practices, refer to the existing payment method implementations (e.g., `CreditCardPayment`, `PayPalPayment`).
 
 ## 🔧 Next.js Instruction
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ### Getting Started
 
@@ -66,4 +67,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## License
 
-E-commerce Application with is licensed under [Apache-2.0 License](LICENSE).
+E-commerce Application with Payment Gateway Integration is licensed under [Apache-2.0 License](LICENSE).
